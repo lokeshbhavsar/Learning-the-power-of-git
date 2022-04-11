@@ -1,0 +1,5 @@
+git remote add origin https://github.com/lokeshbhavsar/Learning-the-power-of-git.git
+git branch -M main
+git push -u origin main
+
+
